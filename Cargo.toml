@@ -1,5 +1,5 @@
 [package]
-name = "Base_Conversion"
+name = "Base_Conversion_Any_Base"
 version = "0.1.0"
 edition = "2021"
 
